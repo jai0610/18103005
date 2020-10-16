@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Solution {
+class A4_q1 {
     private static final String alphabets = "abcdefghijklmnopqrstuvwxyz";
     private static int N = 0;
     private static int M = 0;
